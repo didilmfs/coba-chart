@@ -3,12 +3,12 @@ entries:
   coba-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-22T13:19:45.982863429+07:00"
+    created: "2022-10-06T13:02:14.08105134+07:00"
     description: A Helm chart for Kubernetes
-    digest: c7dd59422d1ed342908a2f338aee0212c393b837ed563ddbf3bccebe30eea904
+    digest: 86f6519c5977210acb20720b6dfb64c12ae4a0c01d1ef82293df37711b9b816b
     name: coba-chart
     type: application
     urls:
-    - coba-chart-0.1.0.tgz
+    - https://didilmfs.github.io/coba-chart/coba-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2022-09-22T13:19:45.961760512+07:00"
+generated: "2022-10-06T13:02:14.080731891+07:00"
