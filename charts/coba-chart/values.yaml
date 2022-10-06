@@ -1,0 +1,9 @@
+image:
+  repository: didilmfs/coba-podinfo
+  tag: main-2c6fd4a9-1664943476
+
+replicaCount: 10
+
+service:
+  type: NodePort
+  port: 9898
